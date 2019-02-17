@@ -1,6 +1,7 @@
 
 # SLAM Cheatsheet
 
-On going project making Simultaneous Localization and Mapping cheatsheet.
+On going project of making Simultaneous Localization and Mapping cheatsheet.  
+For more information, visit https://www.facebook.com/groups/slamkr
 
 ![slamcheatsheet](./SLAM_cheatsheet.png)
